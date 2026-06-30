@@ -307,5 +307,65 @@ const sections = [
 
     // ---------------------------------------------------------------
   
+ {
+        title: "Youtube links",
+        icon: "🕸️",
 
+        categories: [
+
+            {
+                title: "C lang",
+
+                subcategories: [
+
+                    {
+                        title: "Tools",
+
+                        items: [
+
+                            {
+                                name: "Number System | Binary/ Decimal/ Octal/ Hexadecimal",
+                                url: "https://youtu.be/MxjJqq3B6JU?si=JAeIXRwZfnMi53gm",
+                                type: "link"
+                            },
+
+                            {
+                                name: "Perplexity",
+                                url: "https://www.perplexity.ai/",
+                                type: "link"
+                            }
+
+                        ]
+
+                    },
+
+
+                    {
+                        title: "SQL",
+
+                        items: [
+
+                            
+                            {
+                                name: "MASTER SQL 🔥 | Beginners to Advance Using MSSQL Server [HINDI]",
+                                url: "https://youtu.be/4bTt1JbAp3M?si=OHf-wG0fB821el3t",
+                                type: "link"
+                            },
+
+                            {
+                                name: "Master SQL in One Video 💻 | Full SQL Course in Hindi (Beginner to Advanced 2026)",
+                                url: "https://youtu.be/a4xjpxzqN1Q?si=n90Zv8HnT2GRnypQ",
+                                type: "link"
+                            }
+
+                        ]
+
+                    }
+
+                ]
+
+            }
+
+        ]
+    },
 ];
